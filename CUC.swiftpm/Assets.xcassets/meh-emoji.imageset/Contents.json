@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "meh-emoji.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

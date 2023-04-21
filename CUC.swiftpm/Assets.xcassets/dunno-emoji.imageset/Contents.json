@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "dunno-emoji.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
